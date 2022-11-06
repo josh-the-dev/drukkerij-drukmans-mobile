@@ -2,6 +2,7 @@
   "expo": {
     "name": "drukkerij-drukmans",
     "slug": "drukkerij-drukmans",
+    "owner": "josh_the_dev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
