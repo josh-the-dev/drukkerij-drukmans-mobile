@@ -1,8 +1,5 @@
-import MainNavigator from './src/navigation/main';
+import MainNavigator from "./src/navigation/MainStack";
 
 export default function App() {
-  return (
-    <MainNavigator />
-  );
+  return <MainNavigator />;
 }
-
